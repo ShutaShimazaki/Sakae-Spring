@@ -7,4 +7,5 @@
 
 <img width="1201" alt="スクリーンショット 2024-06-19 15 19 45" src="https://github.com/ShutaShimazaki/Sakae-Spring/assets/93859043/287e5e75-5e06-4ff6-8ea4-618198d8ce13">
 
-<img width="550" alt="スクリーンショット 2024-06-19 15 26 26" src="https://github.com/ShutaShimazaki/Sakae-Spring/assets/93859043/7fb4ae44-e59f-41cf-b4fa-13b2577d6b02">
+<img width="883" alt="スクリーンショット 2024-06-19 15 27 47" src="https://github.com/ShutaShimazaki/Sakae-Spring/assets/93859043/fd42c48a-f38c-41bd-911b-be18c0203d7f">
+
